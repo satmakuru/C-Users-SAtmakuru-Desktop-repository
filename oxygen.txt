@@ -1,0 +1,19 @@
+oxygen server:
+
+
+
+server configuration Details : 
+smtpServer: 192.168.4.70
+smtp mail: postmaster@testmail.com
+smtp port Number : 25 
+
+login details:
+
+
+https://www.axigen.com/documentation/installing-on-windows-p1409137
+
+
+192.168.4.70:9000
+
+user:admin	
+passwd:welcome@123
